@@ -1,4 +1,5 @@
-import React from 'react';
+// eslint-disable-next-line 
+import React from 'react'; 
 
 function App() {
   const name = '<h1>Hello World! from Hammad</h1>'
