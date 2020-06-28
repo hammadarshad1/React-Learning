@@ -2,8 +2,7 @@
 import React from 'react'; 
 
 function App() {
-  const name = '<h1>Hello World! from Hammad</h1>'
-  return name
+  return <h1>Hello world from Hammad</h1>
 }
 
 export default App;
